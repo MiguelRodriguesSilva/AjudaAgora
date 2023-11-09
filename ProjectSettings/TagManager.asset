@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ataque
+  - Projetil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - BlockPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 88616419
+    locked: 0
+  - name: Inimigos
+    uniqueID: 3757461653
+    locked: 0
+  - name: "Proj\xE9teis"
+    uniqueID: 853001457
+    locked: 0
+  - name: Player
+    uniqueID: 5283889
+    locked: 0
+  - name: HUD
+    uniqueID: 716099571
+    locked: 0
